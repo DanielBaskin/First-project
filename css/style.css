@@ -23,3 +23,14 @@ nav a {
 nav {
     color: #555555;
 }
+.movie h2 {
+    color: #f5c518;
+    font-size: 24px;
+}
+.movie span {
+    color: #9a9a9a;
+    font-weight: bold;
+}
+.movie a {
+    color: #f5c518;
+}
